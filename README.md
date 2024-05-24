@@ -2,10 +2,14 @@ High level description
 
 Primitive RAG system without usind dabases to store embeddings
 
+-----------------------------
+
 Introduction
 
 The goal of this project is to enhance a GPT model's ability to provide accurate and updated answers about news events from 2022. 
 By embedding Wikipedia news articles and implementing a similarity retrieval mechanism, the model can deliver contextually relevant responses based on recent information.
+
+-----------------------------
 
 Features
 
