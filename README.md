@@ -17,3 +17,11 @@ Wikipedia API Integration: Automatically retrieves significant news events from 
 GPT Model Querying: Compares the responses of the non-optimized and optimized GPT models.
 Embedding and Similarity Retrieval: Uses embeddings to enhance the model's understanding and retrieval of relevant information.
 Contextual Answers: Optimized model provides updated and contextually accurate responses to news-related queries.
+
+-----------------------------
+
+Prerequisites
+
+Python 3.8 or higher
+Jupyter Notebook
+Required Python libraries: openai, requests, dateutil.parser, tiktoken, pandas
